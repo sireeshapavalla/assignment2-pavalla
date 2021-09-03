@@ -1,2 +1,2 @@
-# assignment2-pavalla
- 
+# assignment2-Pavalla
+ light travels faster than sound
